@@ -1,0 +1,98 @@
+    background: transparent;
+    border: 5px solid #487bb4;
+  margin: 0 auto;
+  margin-top: 40px;
+  padding: 5px 2px 5px 2px;
+    display:block;
+    cursor:pointer;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align: center;
+    z-index: 1;
+    position: relative;
+    color: #3cbc8d;
+    font-size: 30px;
+    font-weight: bold;
+ 
+}
+
+
+.ghost-button{
+    
+    display:inline-block;
+     position: absolute;
+     top: 50px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+   cursor:pointer;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align: center;
+    z-index: 1;
+    position: relative;
+    color: #3cbc8d;
+    font-size: 30px;
+    font-weight: bold;
+       border: 5px solid #487bb4;
+
+  
+}
+
+
+.ghost-button{
+                 display:inline-block;  
+                top: 15%;
+                left: 50%;
+                /* text styles */   
+                font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+                font-size: 25px;
+                letter-spacing: 5px;
+                color:#ffffff;
+                /* modify text */
+                text-transform:uppercase;
+                text-rendering:optimizeLegibility;
+                /* add a border */
+                border:0.15em solid #fff;
+                padding:0.4em 0.6em;
+                /* animate the change */
+                -webkit-transition: color 300ms, background 500ms, border-color 700ms;
+                transition: color 300ms, background 500ms, border-color 700ms;
+}
+
+
+
+.ghost-button{
+    /* positioning */   
+           
+ display: table;
+    margin: 0 auto;
+    margin-top: 200px;
+    /* border */
+    border: solid #ffffff;
+    padding: 20px 10px 20px 10px;   
+    /* Text */
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+
+.ghost-button{
+    /* positioning */   
+           
+    background: transparent;
+     display: table;
+    margin: 0 auto;
+    border: 5px solid #487bb4;
+  margin-left: 30%;
+  margin-top: 15%;
+  padding: 5px 2px 5px 2px;
+    cursor:pointer;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align: center;
+    z-index: 1;
+    position: relative;
+    color: #3cbc8d;
+    font-size: 30px;
+    font-weight: bold;
+ 
+}
